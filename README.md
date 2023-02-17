@@ -1,5 +1,3 @@
 # LearningRust
 
-Test repo to learn Rust developping a Spotify playlist manager with versionning.
-
-HTTP routes and other stuff to waste a bit of my time.
+Need to find an idea for a project that will use Rust where it shines.
