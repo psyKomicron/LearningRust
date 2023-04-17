@@ -490,7 +490,6 @@ async fn main()
 
         "add" =>
         {
-            println!("{}", style("Add is unstable.").yellow());
             add(query, &spotify).await;
         },
 
